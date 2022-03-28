@@ -1,0 +1,19 @@
+Index.html:
+	https://wireframe.cc/UiQvvC (vista escritorio)
+	https://wireframe.cc/EoutLE (vista mobile)
+
+Combos.html:
+	https://wireframe.cc/92xASG (vista escritorio)
+	https://wireframe.cc/gCGA92 (vista mobile)
+
+Nosotros.html:
+	https://wireframe.cc/Kzb6aL (vista escritorio)
+	https://wireframe.cc/uGXgHX (vista mobile)
+
+Galeria.html:
+	https://wireframe.cc/NXbuA4 (vista escritorio)
+	https://wireframe.cc/1nhjGE (vista mobile)
+
+FAQ.html:
+	https://wireframe.cc/t7R3UU (vista escritorio)
+	https://wireframe.cc/sxSIzk (vista mobile)
