@@ -229,7 +229,7 @@ grid-area: mainNav;
 }
 
 .combos__articulo--boton{
-    margin-left:    770px;
+   display: inline-flex;
 }
 
 
@@ -593,3 +593,60 @@ grid-area: mainNav;
 }
 }
 
+
+
+.carrusel{
+	height: 40vh;
+	animation-name: animateHeader;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-delay: 1s;
+	animation-timing-function: ease;
+	background-size: cover;
+
+}
+
+
+@keyframes animateHeader{
+	0% {background-image: url(../img/fotoindex.PNG);}
+	25% {background-image: url(../img/foto6.PNG);}
+	50% {background-image: url(../img/foto1.PNG);}
+	75% {background-image: url(../img/foto14.PNG);}
+	100% {background-image: url(../img/foto9.PNG);}
+}
+
+
+div {
+  animation-duration: 0.5s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+} 
+
+
+a:hover{
+	animation-name: buttonUnderline;
+	animation-duration: 0.5s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes buttonUnderline{
+	0%{
+		text-decoration-line: none;
+	}
+
+	100%{
+		text-decoration-line: underline;
+		font-size: 200%;
+	}
+}
