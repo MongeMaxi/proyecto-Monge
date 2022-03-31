@@ -634,7 +634,7 @@ div {
 } 
 
 
-a:hover{
+/*a:hover{
 	animation-name: buttonUnderline;
 	animation-duration: 0.5s;
 	animation-iteration-count: infinite;
@@ -649,4 +649,4 @@ a:hover{
 		text-decoration-line: underline;
 		font-size: 200%;
 	}
-}
+}*/
